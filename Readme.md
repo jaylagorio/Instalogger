@@ -1,4 +1,4 @@
-![Instalogger Logo](images/Instalogger.png)
+![Instalogger Logo](images/Instalogger.jpg)
 
 #Instalogger
 Keeping up with the... well, whoever you follow on Instagram
