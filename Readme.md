@@ -1,9 +1,9 @@
 ![Instalogger Logo](images/Instalogger.jpg)
 
-#Instalogger
+# Instalogger
 Keeping up with the... well, whoever you follow on Instagram
 
-##Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Program Structure](#programstructure)
 - [Database Tables](#databasetables)
