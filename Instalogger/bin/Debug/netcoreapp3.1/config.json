@@ -1,0 +1,18 @@
+{
+  "DatabaseString": "Data Source=sql.host.com;Initial Catalog=Instalogger;Integrated Security=True",
+  "InstagramUsername": "username",
+  "InstagramPassword": "password1",
+  "InstagramTwoFactorAuthCode": "1SSNNTVUEEU21EKEYSZ5PJUVQMHYK1B3",
+  "TwilioAccountSid": "DB7e1c18d2ec11d28374dfee203f52099c8",
+  "TwilioAuthToken": "384936ba47fdce9eb3dd2938bc1726ac",
+  "TwilioPhoneNumber": "1231231234",
+  "SmtpMailServer": "mail.host.com",
+  "SmtpUsername": "",
+  "SmtpPassword": "",
+  "SmtpPort": 25,
+  "SmtpUseTLS": false,
+  "SmtpFromAddress": "from@host.com",
+  "SmtpToAddress": "to@host.com",
+  "LastReportingTime": "2020-10-22T23:33:18.6763706-04:00",
+  "PreviousSessionJSON": ""
+}
