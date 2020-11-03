@@ -156,3 +156,6 @@ This SQL script creates the expected tables in the database server pointed to by
 ### Build and Run
 
 After cloning the repository, clone the [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp/) repository into the same directory as the `Instalogger.sln` file. Open the Solution, verify your platform is selected correctly, and click Build. Run the resulting executable. After the first pass you'll get a report sent to the email account in the `SmtpToAddress` configuration parameter.
+
+![Sample output email](images/Screenshot3.png)
+
